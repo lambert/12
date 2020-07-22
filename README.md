@@ -1,2 +1,1 @@
-# 12
-LED meter
+# 12 LED meter
