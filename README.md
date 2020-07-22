@@ -1,4 +1,4 @@
-# 12 LED meter
+# 12 LED DMM meter
 
 [Documentation](docs/README.md)
 
