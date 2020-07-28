@@ -22,7 +22,7 @@ ID  | Description                                                               
 
 ID  | Description                                                                     |
 ----|---------------------------------------------------------------------------------|
-001 | .                                   |
+001 | .                                                                               |
 
 ### Inputs.
 
@@ -37,9 +37,9 @@ ID   | Description                        | Location   |
 
 ### Outputs.
 
-ID   | Description                          | Location  |
------|--------------------------------------|-----------|
-J301 | DIN 41617 31-pin connector (female). | main pcb. |
+ID   | Description                        | Location  |
+-----|------------------------------------|-----------|
+P301 | DIN 41617 31-pin connector (male). | main pcb.  |
 
 ### Indicators.
 
