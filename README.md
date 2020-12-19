@@ -1,5 +1,9 @@
 # 12 LED meter
 
-[Documentation](docs/README.md)
+[Documentation](docs/README.md).
 
-![CC-BY-SA](./cc-by-sa.png)
+[Electrical CAD files](ecad/README.md)
+
+[Mechanical CAD files](mcad/README.md)
+
+![CC BY-SA](cc-by-sa.png)
